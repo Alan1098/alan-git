@@ -6,5 +6,5 @@ Nuestro objetivo principal es ayudar a nuestros clientes a encontrar la propieda
 Proyecto Git
 Datos Contacto:
 Nombre: Alan Lopez Cetina
-Telefono: 9842073021
-Correo:2202116@utrmrivieramaya.edu.mx
+Telefono: 84614484
+Correo:226@tecmonterrey.edu.mx
